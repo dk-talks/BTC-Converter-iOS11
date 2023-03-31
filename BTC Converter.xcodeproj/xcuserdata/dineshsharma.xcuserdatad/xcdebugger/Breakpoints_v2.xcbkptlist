@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DA5C3A7B-F6E5-44B1-8160-CAC996EA6FE7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "855D5444-33BC-4999-9E54-19F38A9E1C99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BTC Converter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "updateUI(price:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70D295E3-E223-4FE6-83B6-3C7BC4A7EEF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BTC Converter/ReverseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "btnCalculatepressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70D295E3-E223-4FE6-83B6-3C7BC4A7EEF4 - 9c3268dcb8ff1613"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BTC_Converter.ReverseViewController.btnCalculatepressed(Any) -&gt; ()"
+                  moduleName = "BTC Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshsharma/Documents/ZSwift%20Learning/iOS%20Projects/Ahmad/BTC%20Converter/BTC%20Converter/ReverseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "70D295E3-E223-4FE6-83B6-3C7BC4A7EEF4 - 9c3268dcb8ff1613"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BTC_Converter.ReverseViewController.btnCalculatepressed(Any) -&gt; ()"
+                  moduleName = "BTC Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshsharma/Documents/ZSwift%20Learning/iOS%20Projects/Ahmad/BTC%20Converter/BTC%20Converter/ReverseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "354">
+               </Location>
+               <Location
+                  uuid = "70D295E3-E223-4FE6-83B6-3C7BC4A7EEF4 - 9c3268dcb8ff1613"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BTC_Converter.ReverseViewController.btnCalculatepressed(Any) -&gt; ()"
+                  moduleName = "BTC Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshsharma/Documents/ZSwift%20Learning/iOS%20Projects/Ahmad/BTC%20Converter/BTC%20Converter/ReverseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "649">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7E134E1-02EA-473E-B1BA-87E44EC10D01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BTC Converter/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8743679C-1532-4E7B-B4AD-C76A35256E37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BTC Converter/AppInfoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
